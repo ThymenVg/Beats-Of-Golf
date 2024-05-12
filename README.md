@@ -32,8 +32,16 @@ You need to download **two** things:
 ## Usage
 
 **The zipped folder contains a file named _config.txt_ this file must at all times, be present in the same directory as the executable.**
-to config the executable open the _config.txt_ file in your preferred text editor. //TODO
+to config the executable open the _config.txt_ file in your preferred text editor. 
 
+| command number     | parameter 1 |parameter 2|parameter 3 |parameter 4| parameter 5|
+| ----------- | ----------- |------------|------------|-----------|------------|
+| 1      | Title       |
+| 2   | Text        |
+| 3
+| 4
+|5
+|6
 ## Credits
 
 Special thanks to Aäron Leman (https://www.linkedin.com/in/a%C3%A4ronleman/), he helped me brainstorm :P
