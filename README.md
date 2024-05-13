@@ -47,7 +47,15 @@ when finished writing the config file make sure to save the file
 ## Example
 
 ``` 
-HELLO
+1;C:\Program Files\Mozilla Firefox\firefox.exe
+2;2500
+3;firefox;-2;0;2570;1440
+2;1000
+5;230;100
+2;3000
+6;2555;200;0;500
+5;1000;1000
+3;firefox;0;0;750;1000
 ```
 
 ## Trouble-Shooting
