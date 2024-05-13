@@ -37,7 +37,7 @@ In total there are 6 different commands all represented by a command number.
 | ----------- | ----------- |------------------------|------------------------|-------------------------------|-----------|------------|--------|
 |1|open a program|directory of executable|N/A|N/A|N/A|N/A|1;C:\Program Files\7-Zip\7z.exe
 |2|delay the next command|duration in ms|N/A|N/A|N/A|N/A|2;5000
-|3|reposition and resize a program|name of target program as seen in task manager|x-coordinate|y-coordinate|width|height|3;firefox;0;0;1500;1500
+|3|**focus** the window, reposition and resize a program|name of target program as seen in task manager|x-coordinate|y-coordinate|width|height|3;firefox;0;0;1500;1500
 | 4|double left mouse click|x-coordinate|y-coordinate|N/A|N/A|N/A|4;250;142
 |5|single left mouse click|x-coordinate|y -coordinate|N/A|N/A|N/A|5;750;374
 |6|drag left mouse click|starting x-coordinate|starting y-coordinate|the ammount of pixels you want to move on the x-axis|the ammount of pixels you want to move on the y-axis|N/A|6;1250;900;0;100
@@ -47,7 +47,7 @@ when finished writing the config file make sure to save the file
 ## Example
 Let's say you'd for some reason want to configurate the program to automatically open youtube and play a youtube short...
 
-Here is an example of what the config file could look like.
+- Here is an example of what the config file could look like.
 ``` 
 1;C:\Program Files\Mozilla Firefox\firefox.exe
 2;2500
@@ -59,12 +59,13 @@ Here is an example of what the config file could look like.
 5;1000;1000
 3;firefox;0;0;750;1000
 ```
-This is the result when executed.
+- This is the result when executed.
 
 https://github.com/ThymenVg/Beats-Of-Golf/assets/78809977/4e8cdf89-fd73-4241-acfb-b58d011c261d
 
-Lastly, this is the terminal after finishing the execute.
-![Screenshot 2024-05-13 162643](https://github.com/ThymenVg/Beats-Of-Golf/assets/78809977/39b29d1e-9eb4-480b-8e37-10574882b183)
+- Lastly, this is the terminal after finishing the execute.
+  
+![terminal after execute](https://github.com/ThymenVg/Beats-Of-Golf/assets/78809977/39b29d1e-9eb4-480b-8e37-10574882b183)
 
 ## Trouble-Shooting
 
