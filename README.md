@@ -45,7 +45,9 @@ In total there are 6 different commands all represented by a command number.
 when finished writing the config file make sure to save the file
 
 ## Example
+Let's say you'd for some reason want to configurate the program to automatically open youtube and play a youtube short...
 
+Here is an example of what the config file could look like.
 ``` 
 1;C:\Program Files\Mozilla Firefox\firefox.exe
 2;2500
@@ -57,6 +59,12 @@ when finished writing the config file make sure to save the file
 5;1000;1000
 3;firefox;0;0;750;1000
 ```
+This is the result when executed.
+
+https://github.com/ThymenVg/Beats-Of-Golf/assets/78809977/4e8cdf89-fd73-4241-acfb-b58d011c261d
+
+Lastly, this is the terminal after finishing the execute.
+![Screenshot 2024-05-13 162643](https://github.com/ThymenVg/Beats-Of-Golf/assets/78809977/39b29d1e-9eb4-480b-8e37-10574882b183)
 
 ## Trouble-Shooting
 
