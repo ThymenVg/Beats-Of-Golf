@@ -32,13 +32,14 @@ You need to download **two** things:
 ## Usage
 
 **The zipped folder contains a file named _config.txt_ this file must at all times, be present in the same directory as the executable.**
-to config the executable open the _config.txt_ file in your preferred text editor. 
+to config the executable open the _config.txt_ file in your preferred text editor. With the config file openend write your commands line by line. Commands are written in following format: _Command-Number;Parameter1; . . . ;Parameter-n_.
+In total there are 6 different commands all represented by a command number.
 
-| command number     | parameter 1 |parameter 2|parameter 3 |parameter 4| parameter 5|
-| ----------- | ----------- |------------|------------|-----------|------------|
-| 1      | Title       |
-| 2   | Text        |
-| 3
+| command number     | command purpose |parameter 1 |parameter 2|parameter 3 |parameter 4| parameter 5|example|
+| ----------- | ----------- |------------|----|------------|-----------|------------|--------|
+|1|open a program|directory of executable|N/A|N/A|N/A|N/A|1;C:\Program Files\7-Zip\7z.exe
+|2|delay the next command|duration in ms|N/A|N/A|N/A|N/A|2;5000
+|3|reposition and resize a program|name of target program as seen in task manager|x screen coordinate|y screen coordinate|width|height|3;firefox;0;0;1500;1500
 | 4
 |5
 |6
