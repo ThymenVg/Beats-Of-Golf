@@ -77,11 +77,24 @@ Because this is a prototype a few issues may arise. Almost everytime a issue hap
 - Redudent spaces in commands 
 
 ## Usage
-Some program requires admin priv. and as a result give a pop up this disturbs the flow of the program. To bypass this disable these kind notifications **DO SO AT YOUR OWN RISK**
+Some program requires admin priv. and as a result give a pop up this disturbs the flow of the program. To bypass this disable these notifications **DO SO AT YOUR OWN RISK**
 1. Open windows search
 2. type "change user account control setting"
 3. drag the slider all the way down to "never notify"
 4. click "ok"
+
+If you wish the program to automatically start when the computer boots, follow these steps:
+1. Open the locally downloaded repository folder
+2. Copy the full path of the executable (.exe)
+3. Press window+R
+4. Enter "shell:startup"
+5. Press enter
+6. In the startup folder right click -> new -> shortcut
+7. Paste the executable's full path
+8. Click "next"
+9. Give the shortcut a name to your desire
+10. finally click "finish"
+
 ## Credits
 
 Special thanks to Aäron Leman (https://www.linkedin.com/in/a%C3%A4ronleman/), he helped me brainstorm :P
