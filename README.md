@@ -95,6 +95,7 @@ If you wish the program to automatically start when the computer boots, follow t
 9. Give the shortcut a name to your desire
 10. finally click "finish"
 
+shell startup starts the program when the PC is booted. Not when the user logs in, this can create issues for the click commands. To fix this you can disable the windows user authentication as explained in the following video: https://www.youtube.com/watch?v=_WSGqnKHZsI make sure to use your password in NETPLWIZ en not your pincode, otherwise it won't work.
 ## Credits
 
 Special thanks to Aäron Leman (https://www.linkedin.com/in/a%C3%A4ronleman/), he helped me brainstorm :P
