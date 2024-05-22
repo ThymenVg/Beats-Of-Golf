@@ -77,7 +77,11 @@ Because this is a prototype a few issues may arise. Almost everytime a issue hap
 - Redudent spaces in commands 
 
 ## Usage
-
+Some program requires admin priv. and as a result give a pop up this disturbs the flow of the program. To bypass this disable these kind notifications **DO SO AT YOUR OWN RISK**
+1. Open windows search
+2. type "change user account control setting"
+3. drag the slider all the way down to "never notify"
+4. click "ok"
 ## Credits
 
 Special thanks to Aäron Leman (https://www.linkedin.com/in/a%C3%A4ronleman/), he helped me brainstorm :P
