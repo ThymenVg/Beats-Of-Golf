@@ -70,7 +70,7 @@ https://github.com/ThymenVg/Beats-Of-Golf/assets/78809977/4e8cdf89-fd73-4241-acf
 ![terminal after execute](https://github.com/ThymenVg/Beats-Of-Golf/assets/78809977/39b29d1e-9eb4-480b-8e37-10574882b183)
 
 ## Trouble-Shooting
-Because this is a prototype a few issues may arise. Almost everytime a issue happens the terminal will close and all further commands will be stopped. Here as some of the most common reasons:
+Because this is a prototype a few issues may arise. Almost everytime a issue happens the terminal will close and all further commands will be stopped. Here are some of the most common reasons:
 - When using _command 1_ and giving an incorrect filepath or the filepath isn't an executable
 - When using _command 3_ and giving a wrong or non existant window name, make sure always to give the name as shown in task manager
 - When empty lines are present in the config file
