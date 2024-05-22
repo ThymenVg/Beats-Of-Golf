@@ -75,7 +75,7 @@ Because this is a prototype a few issues may arise. Almost everytime a issue hap
 - When using _command 3_ and giving a wrong or non existant window name, make sure always to give the name as shown in task manager
 - When empty lines are present in the config file
 - Not enough or incorrect parameters
-- Redudent spaces in commands 
+- Redundent spaces in commands 
 
 ## Usage
 Some program requires admin priv. and as a result give a pop up this disturbs the flow of the program. To bypass this disable these notifications **DO SO AT YOUR OWN RISK**
