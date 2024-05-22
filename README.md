@@ -12,6 +12,7 @@ This application is developed to automate the startup of the needed software for
 - [Example](#example)
 - [Trouble shooting](#trouble-shooting)
 - [Usage](#usage)
+- [Extra](#extra)
 - [Credits](#credits)
 
 ## Installation
@@ -96,6 +97,12 @@ If you wish the program to automatically start when the computer boots, follow t
 10. finally click "finish"
 
 shell startup starts the program when the PC is booted. Not when the user logs in, this can create issues for the click commands. To fix this you can disable the windows user authentication as explained in the following video: https://www.youtube.com/watch?v=_WSGqnKHZsI make sure to use your password in NETPLWIZ en not your pincode, otherwise it won't work.
+
+## Extra 
+If you wan't to go the extra mile you can look in to starting your PC's over network (https://www.youtube.com/watch?v=ernQI3fUOPM&t=286s) a
+Then make the projectors start all at once. That can be fixed with the help of something like a switchbot.
+Lastly all you have to do is get smartswitches for you lights, put everything in one IOS shortcut on a Ipad or Iphone connected to the same network, and soon you'll be able to start up your entire golf studio with just one click.
+
 ## Credits
 
 Special thanks to Aäron Leman (https://www.linkedin.com/in/a%C3%A4ronleman/), he helped me brainstorm :P
